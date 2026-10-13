@@ -1,0 +1,5 @@
+.funfacts-section {
+  background:
+    linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+    url("/images/background/2-bw%20(2).jpg") center / cover no-repeat;
+}

@@ -1,6 +1,5 @@
 import Contact from "./Contact";
 import FAQ from "./FAQ";
-import Funfacts from "./Funfacts";
 import Practiceareas from "./PracticeAreas";
 import Testimonial from "./Testimonial";
 

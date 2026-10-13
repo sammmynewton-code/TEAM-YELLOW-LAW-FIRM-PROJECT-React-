@@ -29,6 +29,7 @@ function App() {
          <About/>
          <Practiceareas/>
          <Team/>
+         <Funfacts/>
          <FAQ/>
          <Contact/>
          <News/>
