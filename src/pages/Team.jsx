@@ -25,7 +25,8 @@ function Team() {
                                     <img src="images/team/1 (3).jpg" className="fp-image img-fluid" alt="Principal for Everlaw Associates"/>
                                 </div>
                                 <h4>O. Marx Ikongbeh.</h4>
-                                 Esq., Notary Public, MCIArb(UK) Principal For: Everlaw Associates
+                                 Esq., Notary Public, MCIArb(UK)<br/>
+                                 Principal For: Everlaw Associates
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">

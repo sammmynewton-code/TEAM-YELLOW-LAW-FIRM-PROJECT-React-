@@ -14,6 +14,7 @@ import Team from './pages/Team.jsx'
 import Funfacts from './pages/Funfacts.jsx'
 import Practiceareas from './pages/PracticeAreas.jsx'
 import About from './pages/About.jsx'
+import Legalfee from './pages/Legalfee.jsx'
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
       <Route path="/funfacts" element={<Funfacts/>}/>
       <Route path="/practiceareas" element={<Practiceareas/>}/>
       <Route path="/about" element={<About/>}/>
+      <Route path="/pricing" element={<Legalfee/>}/>
      </Routes>
    </main>
 

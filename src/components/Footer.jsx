@@ -53,7 +53,7 @@ function Footer() {
           <div className="container">
             <div className="row g-4 align-items-center">
               <div className="col-lg-6">
-                © Copyrigh - Team Yellow TECH4YOUTH Cohort 1                    
+                © Copyright - Team Yellow TECH4YOUTH Cohort 1                    
               </div>
               <div className="col-lg-6 text-lg-end">
                 <div className="social-icons">
