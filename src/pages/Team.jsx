@@ -64,8 +64,8 @@ function Team() {
                                     <div className="fpw-overlay-btm"></div>
                                     <img src="images/team/3.jpg" className="fp-image img-fluid" alt=""/>
                                 </div>
-                                <h4>John Shepard</h4>
-                                Associate
+                                <h4>Temitope Ruth Adetunji</h4>
+                                Senior Admin Executive
                             </div>
                         </div>
                     </div>

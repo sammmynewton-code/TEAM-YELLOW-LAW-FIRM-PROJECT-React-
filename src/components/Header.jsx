@@ -45,8 +45,9 @@ function Header() {
                                     <li><a href="/practiceareas">Practice Areas</a></li>
                                     <li><a href="/team">Team</a></li>
                                     <li><a href="/news">News</a></li>
-                                    <li><a href="/faq">FAQ</a></li>
+                                    {/*<li><a href="/faq">FAQ</a></li>*/}
                                     <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/feepricing">Legal Fee Calculator</a></li>
                                 </ul>
                                 {/* mainmenu close {*/}
                             </div>

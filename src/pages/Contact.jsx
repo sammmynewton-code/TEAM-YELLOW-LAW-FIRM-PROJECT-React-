@@ -11,7 +11,7 @@ function Contact(){
         function handleSubmit(e){
         e.preventDefault();
         if(!name.trim() || !email.trim() || !phone.trim() || !message.trim()) return;
-        setSubmitted(true);
+        setSubmitted(submitted);
         }
         
         
@@ -50,9 +50,10 @@ function Contact(){
                                 </div>
                                 <div className="spacer-half"></div>
                                 <div id="submit">
-                                    <input type="submit" id="send_message" value={submitted} className="btn btn-custom" />
+                                    <input type="submit" id="send_message" value={submitted} className="btn btn-custom" 
+                                    onClick={(e) => setSubmitted(e.target.value)}
+                                    />
                                 </div>
-                                {submitted && <p>Demo submitted. No message was sent.</p>} 
                                 <div id="mail_success" className="success">Your message has been sent successfully.</div>
                                 <div id="mail_fail" className="error">Sorry, error occured this time sending your message.</div>
                             </form>
